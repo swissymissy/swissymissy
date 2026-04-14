@@ -3,7 +3,7 @@
 - 🖥️ I am currently working on building social media webapp Cardinal and a cat game called Cat-of-hope
 - 🌱 I am learning CI/CD course on Boot.dev
 - 🔗 Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/nghi-hoang-264405398/)
-- 🐦 I also host Cardinal on Render. I'd love to have you post something on it and have some fun with it. It's still very simple, but I will add more features [Cardinal](https://cardinal-83az.onrender.com)
+- 🐦 I also host Cardinal on Render. I'd love to have you post something on it and have some fun with it [Cardinal](https://cardinal-83az.onrender.com)
  
 <!--
 **swissymissy/swissymissy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
