@@ -1,5 +1,5 @@
 ### Hi, I'm Nghi Hoang
-- ⌨️ I have recently started coding in Go for 4 months but I have already in love with it
+- ⌨️ I like Go and Python. I am currently learning JavaScript and preparing for AWS Cloud Practioner Cert.
 - 🖥️ I am currently working on building social media webapp Cardinal and a cat game called Cat-of-hope
 - 🌱 I am learning CI/CD course on Boot.dev
 - 🔗 Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/nghi-hoang-264405398/)
