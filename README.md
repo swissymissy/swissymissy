@@ -1,7 +1,7 @@
 ### Hi, I'm Nghi Hoang
-- ⌨️ I like Go and Python. I am currently learning JavaScript and preparing for AWS Cloud Practioner Cert.
-- 🖥️ I am currently working on building social media webapp Cardinal and a cat game called Cat-of-hope
-- 🌱 I am learning CI/CD course on Boot.dev
+- ⌨️ I like Go and Python. I am a certified AWS Cloud Practitioner.
+- 🖥️ I am currently working on and maintaining Chipmunk - a student attendance taking application that help professor save more class time.
+- 🌱 I am studying for AWS Developer Associate Certification.
 - 🔗 Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/nghi-hoang-264405398/)
 - 🐦 I also host Cardinal on Render. I'd love to have you post something on it and have some fun with it [Cardinal](https://cardinal-83az.onrender.com)
 - 💍 I make a showcase webapp for my sister's jewelry shop [Jade](https://jade-o1jw.onrender.com/)
